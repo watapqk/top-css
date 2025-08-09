@@ -1,0 +1,21 @@
+.odd{
+    color: black;
+    background-color: lightcoral;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.different-font-size{
+    font-size: 24px;
+}
+
+#blueid{
+    color: blue;
+    font-size: 36px;
+}
+
+#greenid{
+    color: black;
+    background-color: lightgreen;
+    font-weight: 700;
+    font-size: 24px;
+}
