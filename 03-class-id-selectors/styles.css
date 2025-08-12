@@ -1,0 +1,15 @@
+.black, 
+.hazard{
+    font-size:28px;
+}
+
+
+.black{
+    color:white;
+    background-color:black;
+}
+
+.hazard{
+    color:black;
+    background-color:yellow;
+}
